@@ -8,3 +8,14 @@ import (
 func main() {
 	delivery.NewServer().Run()
 }
+
+
+/*
+
+Unit Testing
+masin-masing folder di testing
+1. Usecase
+2. Unit Testing
+3. Controller
+*/
+

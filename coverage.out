@@ -1,0 +1,23 @@
+mode: set
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:19.73,22.16 3 1
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:25.2,25.12 1 1
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:22.16,24.3 1 0
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:28.72,31.16 2 1
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:34.2,35.18 2 1
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:47.2,47.23 1 1
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:31.16,33.3 1 1
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:35.18,40.17 5 1
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:44.3,45.42 2 1
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:40.17,42.4 1 0
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:50.76,52.16 2 1
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:55.2,56.18 2 1
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:67.2,67.22 1 1
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:52.16,54.3 1 1
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:56.18,61.17 5 1
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:65.3,65.50 1 1
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:61.17,62.14 1 0
+enigmacamp.com/golatihanlagi/repository/customer_db_repository.go:71.61,75.2 1 1
+enigmacamp.com/golatihanlagi/usecase/customer_usecase.go:17.75,19.2 1 1
+enigmacamp.com/golatihanlagi/usecase/customer_usecase.go:21.79,23.2 1 1
+enigmacamp.com/golatihanlagi/usecase/customer_usecase.go:25.70,27.2 1 1
+enigmacamp.com/golatihanlagi/usecase/customer_usecase.go:29.77,31.2 1 1

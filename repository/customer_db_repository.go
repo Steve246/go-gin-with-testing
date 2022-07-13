@@ -2,7 +2,6 @@ package repository
 
 import (
 	"database/sql"
-	"fmt"
 
 	"enigmacamp.com/golatihanlagi/model"
 )
@@ -28,7 +27,7 @@ func (c *customerDbRepository) Create(newCustomer model.Customer) error {
 
 func (c *customerDbRepository) RetrieveAll() ([]model.Customer, error) {
 	rows, err := c.db.Query("select * from customer")
-	fmt.Println(err.Error())
+	// fmt.Println(err.Error())
 	if err != nil {
 		return nil, err
 	}

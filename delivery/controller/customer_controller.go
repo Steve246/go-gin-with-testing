@@ -1,9 +1,10 @@
 package controller
 
 import (
+	"net/http"
+
 	"enigmacamp.com/golatihanlagi/usecase"
 	"github.com/gin-gonic/gin"
-	"net/http"
 )
 
 type CustomerController struct {
@@ -19,6 +20,7 @@ func (cc *CustomerController) getAllCustomer(ctx *gin.Context) {
 	}
 	ctx.JSON(http.StatusOK, customers)
 }
+
 func (cc *CustomerController) getCustomerById(ctx *gin.Context) {
 	id := ctx.Param("id")
 	customers, err := cc.usecase.FindCustomerById(id)

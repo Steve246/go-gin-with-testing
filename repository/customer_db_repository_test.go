@@ -167,6 +167,7 @@ func(suite *CustomerRepositoryTestSuite) TestCustomerFindById_Failed() {
 
 
 
+
 func TestCustomerRepositoryTestSuite(t *testing.T){
 	suite.Run(t, new(CustomerRepositoryTestSuite))
 }

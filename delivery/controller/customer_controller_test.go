@@ -237,7 +237,7 @@ func (suite *CustomerControllerTestSuite) TestRegisterCustomerApi_FailedBinding(
 	assert.NotEmpty(suite.T(), errorResponse.Err)
 }
 
-func (suite *CustomerControllerTestSuite) TestRegisterCustomerApi_FailedUSeCase() {
+func (suite *CustomerControllerTestSuite) TestRegisterCustomerApi_FailedUseCase() {
 
 	dummyCustomer := dummyCustomer[0]
 
